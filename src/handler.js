@@ -170,7 +170,7 @@ const editBookByIdHandler = (req, res) => {
 const deleteBookByIdHandler = (req, res) => {
     const { id } = req.params
 
-    const index = books.findIndex((note) => note.id === id)
+    const index = books.findIndex((book) => book.id === id)
 
     if (index !== -1) {
         books.splice(index, 1)
