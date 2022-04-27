@@ -1,6 +1,6 @@
 # bookshelf-api
 
-Submission Project for Back-end Beginners Class from Dicoding.
+Submission Project for Back-End Beginners Class from Dicoding.
 
 # How to run
  
